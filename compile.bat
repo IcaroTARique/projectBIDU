@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" contato.cpp controlador.cpp main.cpp pessoa.cpp pessoafisica.cpp pessoajuridica.cpp -o trabalho
