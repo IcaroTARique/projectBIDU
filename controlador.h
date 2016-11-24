@@ -2,12 +2,14 @@
 #define CONTROLADOR_H
 
 #include <string>
+#include <vector>
 #include "contato.h"
 #define QUANTIDADE_TOP 500
 
 class Controlador {
 	//map <string, Contato> list;
 	Contato lista_de_contatos[QUANTIDADE_TOP];
+	vector <Contato> vetor_contato;  
 
 	int numero_contatos;
 	
